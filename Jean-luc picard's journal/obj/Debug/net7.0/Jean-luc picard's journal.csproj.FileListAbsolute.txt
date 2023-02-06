@@ -1,0 +1,15 @@
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/bin/Debug/net7.0/Jean-luc picard's journal
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/bin/Debug/net7.0/Jean-luc picard's journal.deps.json
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/bin/Debug/net7.0/Jean-luc picard's journal.runtimeconfig.json
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/bin/Debug/net7.0/Jean-luc picard's journal.dll
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/bin/Debug/net7.0/Jean-luc picard's journal.pdb
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.csproj.AssemblyReference.cache
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.AssemblyInfoInputs.cache
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.AssemblyInfo.cs
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.csproj.CoreCompileInputs.cache
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.dll
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/refint/Jean-luc picard's journal.dll
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.pdb
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/Jean-luc picard's journal.genruntimeconfig.cache
+/Users/abdelhamid/Downloads/ahmed_git/Jean-luc picard's journal/Jean-luc picard's journal/obj/Debug/net7.0/ref/Jean-luc picard's journal.dll
